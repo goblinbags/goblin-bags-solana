@@ -53,7 +53,7 @@ $GBAGS is a community-centric meme token built on the Solana blockchain. Inspire
 3.  **Swap:** Use bags.fm (early phase) or Raydium/Jupiter (post-launch) to swap $SOL for **$GBAGS**.
 
 ## 📜 Contract Address (CA)
-`soon`
+`CMR66qiZCTzdohVoArpfPXE1AyMbeuuAuySRSxAUBAGS`
 
 ---
 
